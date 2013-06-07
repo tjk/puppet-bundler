@@ -8,4 +8,4 @@ summary 'Install and manage bundler'
 source 'https://github.com/puppetlabs-operations/puppet-bundler'
 project_page 'https://github.com/puppetlabs-operations/puppet-bundler'
 
-dependency 'boxen/puppet-ruby', '5.1.0'
+dependency 'puppetlabs/ruby', '>= 0.0.2'
